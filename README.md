@@ -61,16 +61,3 @@ const terapias = [
       "Terapia de succión con copas que mejora la circulación y libera tensiones musculares. Muy usada en medicina deportiva y relajación.",
   },
 ];
-
-
-Aquí tienes una página web moderna y clara que presenta las terapias disponibles en tu consulta en Sanxenxo. Incluye:
-
-Título llamativo
-
-Información de contacto y horarios
-
-Sección en cuadrícula con imagen, nombre y descripción de cada terapia
-
-
-Si deseas añadir más terapias, cambiar el estilo, enlazar con redes sociales o integrar un sistema de reservas, puedo ayudarte. ¿Quieres que lo preparemos para publicar en línea?
-
